@@ -85,6 +85,8 @@
   margin: auto 2px;
   border-radius: 9999px;
   font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
 }
 
 .active-btn {
